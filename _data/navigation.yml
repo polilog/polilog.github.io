@@ -2,13 +2,10 @@
 main:
   - title: "Публикации"
     url: /publications/  
-
-  - title: "Научный руководитель"
-    url: /teaching/    
     
   - title: "Презентации"
     url: /portfolio/
     
-  - title: "Биография"
+  - title: "Научный руководитель"
     url: /cv/
    
