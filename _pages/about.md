@@ -28,7 +28,7 @@ redirect_from:
 * Git
 * Machine Learning
 
--Публикации
+Публикации
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
