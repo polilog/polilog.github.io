@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Обо мне"
-excerpt: "About me"
+excerpt: "Информация о пользователе"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,7 +28,7 @@ redirect_from:
 * Git
 * Machine Learning
 
-Публикации
+Статьи
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
